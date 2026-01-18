@@ -1,4 +1,3 @@
-```md
 # Tunisian Series Sentiment Analysis
 
 ## Project Overview
