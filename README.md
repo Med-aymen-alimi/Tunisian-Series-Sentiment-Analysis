@@ -15,24 +15,19 @@ The solution combines traditional machine learning algorithms with deep learning
 
 Supervised by: Mr. Wael Ouerda
 
----
-
 ## Project Structure
 ├── data.csv
 ├── sentiment_analysis.ipynb
 ├── Sentiment analysis.pdf
 │
-=├── model_weights.h5
+-model_weights.h5
 ├── model_architecture.pkl
 ├── model_config.pkl
 │
-==├── vectorizer.pickle
+vectorizer.pickle
 │
 ├── deployment_lstm.py
 ├── deployment_sigmoid.py
-
-
----
 
 ## Dataset Description
 - Source: YouTube comments related to Tunisian TV series
